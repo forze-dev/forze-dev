@@ -1,8 +1,9 @@
-## 👋 Hi, I'm Roman! Full-Stack Software Engineer
+## 👋 Hi, I'm Roman — Full-Stack Software Engineer
 
-I build production-grade, scalable web platforms with a focus on fintech 
-systems, secure backend architecture, and developer tooling. I bring 
-end-to-end ownership — from system design to deployment.
+Full-Stack Engineer with 3+ years of experience building production-grade 
+fintech platforms, secure backend systems, and scalable web infrastructure. 
+I thrive in cross-functional teams and take ownership of complex technical 
+challenges end-to-end.
 
 ### 💼 My key competencies:
 
@@ -20,20 +21,23 @@ end-to-end ownership — from system design to deployment.
 * **DevOps:** Linux, Docker, Nginx, Gitea CI/CD, Teleport, Vault
 * **Integrations:** Banking APIs (OAuth 2.0/PKCE), LiqPay, Make.com, WebSockets
 
-### 🔥 Current projects:
+### 🏢 Professional experience:
 
-* **FastCredit.sk** — P2P lending marketplace (Slovakia): distributed 
-  infrastructure, banking integrations, SEO pipeline, and Slovak-language 
-  community forum
-* **Uveria** — microcredit & investment platform: lending engine with daily 
-  interest recalculation, loyalty program, and full Tatra Bank API integration
-* **[devtools.abect.com](https://devtools.abect.com)** — open browser-based 
+* **FastCredit.sk** *(Full-Stack Engineer, remote)* — P2P lending marketplace 
+  (Slovakia): distributed infrastructure, banking integrations, SEO pipeline, 
+  and Slovak-language community forum
+* **Uveria** *(Full-Stack Engineer, remote)* — microcredit & investment 
+  platform: lending engine with daily interest recalculation, loyalty program, 
+  and full Tatra Bank API integration
+
+### 🔨 Personal projects:
+
+* **[devtools.abect.com](https://devtools.abect.com)** — browser-based 
   developer toolkit (26+ tools, 100% client-side, no account required)
 
-### 📊 Why collaborate with me:
+### 📊 What I bring to a team:
 
-* **End-to-end ownership** — I independently drive projects from architecture 
-  decisions to production deployment
+* **Ownership mentality** — I take responsibility for outcomes, not just tasks
 * **Fintech depth** — real production experience with financial precision, 
   security-first integrations, and audit-ready infrastructure
 * **Engineering mindset** — I design for scalability, maintainability, 
@@ -45,4 +49,4 @@ end-to-end ownership — from system design to deployment.
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/forze-dev/)
 💬 Telegram: [Telegram](https://t.me/forzeoldgg)
 
-**Open to new opportunities in software engineering. Let's build something great together.**
+**Open to full-time and contract opportunities in software engineering.**
